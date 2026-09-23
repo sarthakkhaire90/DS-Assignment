@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int rollNo[32];
+    int rollNo[25];
     int marks[98];
     int n = 0;
     int choice;
