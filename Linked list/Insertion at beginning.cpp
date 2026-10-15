@@ -33,7 +33,6 @@ int main(){
    insertatbegin(46);
    insertatbegin(52);
    cout << "Linked List: ";
-   
-   // print list
+
    printList();
 }
